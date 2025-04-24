@@ -27,7 +27,7 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ### Name: DHARMARAJ S
 
-### Register Number: 212222240024
+### Register Number: 212222240025
 
 ```
 import torch
@@ -121,8 +121,8 @@ accuracy = accuracy_score(actuals, predictions)
 conf_matrix = confusion_matrix(actuals, predictions)
 class_report = classification_report(actuals, predictions, target_names=iris.target_names)
 
-print("\nHanshika Varthini R")
-print("Register No: 212223240046")
+print("\nDHARMARAJ S")
+print("Register No: 212222240025")
 print(f'Test Accuracy: {accuracy:.2f}%\n')
 print("Classification Report:\n", class_report)
 print("\nConfusion Matrix:\n", conf_matrix)
