@@ -147,19 +147,25 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 ```
 
 ### Dataset Information
-![DEEP EXP 02 SS 01](https://github.com/user-attachments/assets/3cec6a05-43fd-42b2-a668-a2ccae52a07d)
+![image](https://github.com/user-attachments/assets/022a73e6-ef74-4aef-a606-e94b3463b11a)
+
+![image](https://github.com/user-attachments/assets/aeb10f28-3d08-4b9c-a059-2fde42a55f11)
+
 
 ### OUTPUT
 
 ## Confusion Matrix
-![image](https://github.com/user-attachments/assets/2a74babc-aeee-44fa-a7c5-96bf98791c61)
+![image](https://github.com/user-attachments/assets/6aaebe4a-29a0-472f-948a-b9eed7d52fbc)
+
+![image](https://github.com/user-attachments/assets/15c78d28-9656-4077-b2e8-ce92f5241324)
+
 
 ## Classification Report
-![DEEP EXP 02 SS 03](https://github.com/user-attachments/assets/bdf49e1b-e355-4917-911f-dc0caa4a6b69)
+![image](https://github.com/user-attachments/assets/3f86a5c2-c7d5-46e0-87ce-2f20644ce84e)
 
 ## New Sample Data Prediction
 
-![image](https://github.com/user-attachments/assets/1de3a243-8bfd-421a-8a9e-58ce9a364eeb)
+![image](https://github.com/user-attachments/assets/4690b091-70c8-450c-b4af-7346437e74c6)
 
 ## RESULT
 Thus, a neural network classification model was successfully developed and trained using PyTorch
